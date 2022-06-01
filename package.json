@@ -6,6 +6,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@headlessui/react": "^1.4.0",
+    "@heroicons/react": "^1.0.4",
+    "@tailwindcss/forms": "^0.3.3",
     "next": "latest",
     "react": "18.1.0",
     "react-dom": "18.1.0"
