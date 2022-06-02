@@ -8,10 +8,10 @@ interface LayoutProps {
 
 const Layout = ({ children }: LayoutProps) => {
   return (
-    <div>
+    <div className='min-w-full min-h-screen  h-screen overflow-hidden bg-blue-100'>
       <TopBar />
       <SideBar />
-      <main>{children}</main>
+      <main className='pl-40 pt-16'>{children}</main>
     </div>
   );
 };
