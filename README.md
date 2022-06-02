@@ -2,11 +2,11 @@
 
 ## Taskie
 
-[Live Url](https://tailwindcss.com/)
+[Live Url https://drag-and-drop-dashboard.vercel.app/](https://drag-and-drop-dashboard.vercel.app/)
 
 ## Deploy your own
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+[![Deploy with Vercel](https://vercel.com/button)](https://github.com/anjola-adeuyi/drag-and-drop-dashboard.git)
 
 ## How to use
 
@@ -14,5 +14,4 @@
 yarn
 # then
 yarn dev
-# or
 ```
