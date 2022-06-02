@@ -1,9 +1,7 @@
 import React from 'react';
 import Image from 'next/dist/client/image';
 import {
-  ChevronDownIcon,
   PlusIcon,
-  DotsVerticalIcon,
   ChatAlt2Icon,
   PaperClipIcon,
 } from '@heroicons/react/outline';
