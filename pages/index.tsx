@@ -21,8 +21,6 @@ function createGuidId() {
   });
 }
 
-// const
-
 const Home: NextPage = () => {
   const [ready, setReady] = useState(false);
   const [boardData, setBoardData] = useState(BoardData);
@@ -61,7 +59,7 @@ const Home: NextPage = () => {
       } else {
         const boardId = e.target.attributes['data-id'].value;
         const item = {
-          id: createGuidId(),
+          id: parseInt(createGuidId()),
           title: val,
           priority: 0,
           chat: 0,
