@@ -1,4 +1,4 @@
-# A Drag and Drop Dashboard Feature
+# Drag and Drop Dashboard Feature
 
 ## Taskie
 
